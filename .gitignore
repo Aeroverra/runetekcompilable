@@ -1,4 +1,5 @@
 output/508/bin/
-input/
+input/*.dat
+input/*.jar
 target/
 dependency-reduced-pom.xml
